@@ -1,7 +1,7 @@
 # d2d - draw 2D
 ## the most minimal, probably most lacking, but simple 2d drawing Go package
 
-![Example image](https://unbewohnte.su:3000/Unbewohnte/d2d/examples/example_image2.png)
+![Example image](https://unbewohnte.su:3000/Unbewohnte/d2d/src/branch/master/examples/example_image2.png)
 
 ## What can it do ?
 
